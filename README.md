@@ -1,2 +1,2 @@
-# Praktikum-Daspro
-Pengumpulan tugas untuk mata kuliah Praktikum Dasar Pemrograman.
+# Praktikum Dasar Pemrograman
+Pengumpulan tugas mata kuliah "Praktikum Dasar Pemrograman".
