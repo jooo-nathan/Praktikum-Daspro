@@ -1,3 +1,2 @@
-# Praktikum Dasar Pemrograman
-Pengumpulan tugas mata kuliah "Praktikum Dasar Pemrograman".
-Baris ke-3
+# Praktik Dasar Pemrograman
+Pengumpulan tugas mata kuliah "Praktik Tugas Pemrograman"
