@@ -15,5 +15,9 @@ public class ifCetakKRS14 {
         else {
             System.out.println("Registrasi ditolak. Silakan lunasi UKT terlebih dahulu");
         }
+
+        // Baris tambahan (ternary operator)
+        System.out.println("\n--- Ternary Operator ---");
+        System.out.println((uktLunas) ? "Pembayaran UKT terverifikasi\nSilakan cetak KRS dan minta tanda tangan DPA" : "Registrasi ditolak. Silakan lunasi UKT terlebih dahulu");
     } 
 }
