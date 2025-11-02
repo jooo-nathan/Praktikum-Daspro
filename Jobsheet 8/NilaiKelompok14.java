@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class NilaiKelompok14 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
+
         int i = 1, kelTertinggi = 0;
         float totalNilai = 0, tertinggi = 0;
 
@@ -26,7 +27,7 @@ public class NilaiKelompok14 {
             i++;
         }
         System.out.print("\nKelompok dengan nilai tertinggi adalah");
-        System.out.print(" kelompok " + kelTertinggi + " dengan nilai ");
+        System.out.print("Kelompok " + kelTertinggi + "dengan nilai ");
         System.out.printf("%.1f", tertinggi);
     }
 }
