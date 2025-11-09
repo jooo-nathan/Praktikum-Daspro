@@ -9,7 +9,6 @@ public class Tugas3 {
         "Kentang Goreng", "Teh Tarik", "Cappucino", "Chocolate Ice", "French Fries"};
 
         System.out.println("Selamat datang di Kafe!\n");
-
         System.out.print("Anda ingin mencari menu apa ? : ");
         key = sc.nextLine();
 
